@@ -2,6 +2,7 @@
 #### Javascript 
 - https://twitter.com/oliverjumpertz/status/1434943651583516679?s=09
 - https://twitter.com/oliverjumpertz/status/1438209194465841163?s=09
+- https://twitter.com/oliverjumpertz/status/1438068254363299843?s=09
 
 
 #### Python
