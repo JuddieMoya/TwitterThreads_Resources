@@ -7,6 +7,9 @@
 - https://twitter.com/spot_code/status/1441067877503672321?s=09
 
 
+#### CSS
+- https://twitter.com/denicmarko/status/1446055330694246401?t=8wcfN0quZUpEpmFCxOb1ZQ&s=09
+
 #### Python
 - https://twitter.com/AbzAaron/status/1434556230014541826?s=09
 - https://twitter.com/AbzAaron/status/1434556230014541826?s=09
